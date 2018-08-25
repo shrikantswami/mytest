@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/linumio/base
+FROM registry.gitlab.com
 
 ENV REFRESHED_AT 2016-06-01
 ENV DISPLAY :1
